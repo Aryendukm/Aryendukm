@@ -13,6 +13,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Aryendukm&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryendukm&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🚀 Featured Projects
+Here are a few live projects I’ve worked on:
+
+- 💼 [Codient Labs](https://codientlabs.in/) – IT services and solutions provider website.
+- 🌐 [Sahu Metals](https://www.sahumetals.in/) – Corporate website for a a trusted manufacturer of agricultural equipment since 1990.
+- 🧠 [5Vowels](https://www.5vowels.com/) – An expert English language learning platform designed for students from grades 8 to 12
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aryendukm&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
